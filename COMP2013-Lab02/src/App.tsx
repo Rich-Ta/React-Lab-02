@@ -8,7 +8,7 @@ function App() {
   
   return( 
   <>
-  <h1>Resort Listings</h1>
+  <h1>Resorts Lite</h1>
   <ResortListingContainer data={data}/>
   </> 
   
